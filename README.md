@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Spanish
 - 💞️ I’m looking to collaborate on CoinList
 - 📫 How to reach me krotkov2012@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: 
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: Love sport with junk food
 
 <!---
 Prostotrash/Prostotrash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
